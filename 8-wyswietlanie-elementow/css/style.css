@@ -1,0 +1,14 @@
+.elementy-blokowe p {
+    background-color: yellow;
+    display: inline;
+}
+.elementy-liniowe span {
+    background-color: lime;
+    display: block;
+}
+.lista-inline-block li {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
